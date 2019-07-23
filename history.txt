@@ -1,0 +1,18 @@
+## first commit
+
+### pre-work
+Create repository for 'react-study' on github
+
+### work
+$ mkdir react-study
+$ cd .\react-study\
+$ git init
+$ echo "# react-study" >> README.md
+$ git init
+$ git add .\README.md
+$ git commit -m "fisrt commti"
+$ git log
+$ git commit --amend
+$ git remote add origin https://github.com/leehunkyu00/react-study.git
+$ git push -u origin master
+
